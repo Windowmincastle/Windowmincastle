@@ -2,8 +2,7 @@
 안녕하세요 😄 진정성있는 사람들과 꾸준히 성장하고 싶은 개발자 김민성입니다.
 
 ## Tech BLOG
--✍[테크 블로그]([https://your-blog-link.com](https://excited-trampoline-8c1.notion.site/175b16cb343580688115e2688f3f9a38))
-
+- ✍[테크 블로그](https://excited-trampoline-8c1.notion.site/175b16cb343580688115e2688f3f9a38)
 ## Project
 
 | 프로젝트명| 설명 | 기간 | Repository |
