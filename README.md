@@ -1,9 +1,6 @@
 ## KIM MIN SEONG | 꾸준함을 믿는 개발자
 안녕하세요 😄 진정성있는 사람들과 꾸준히 성장하고 싶은 개발자 김민성입니다.
 
-## Tech Blog
-- ✍ [테크 블로그](https://excited-trampoline-8c1.notion.site/175b16cb343580688115e2688f3f9a38)
-
 ## Project
 | 프로젝트명| 설명 | 기간 | Repository |
 |------------------------|-------------------------------------------------------|----------------------|--------------------------------------------------------------------------------------|
@@ -13,6 +10,9 @@
 | 🛕 NoExit                 | 방탈출게임 통합 플랫폼 서비스의 Client              | 2024.07 - 2024.08     | [NoExit Client](https://github.com/Windowmincastle/NoExit_frontend)                  |
 | 🛕 NoExit                 | 방탈출게임 통합 플랫폼 서비스의 Server              | 2024.07 - 2024.08     | [NoExit Server](https://github.com/Windowmincastle/NoExit_backend)                   |
 | 👨‍🏫👩‍🏫 ClassDom               | 프리랜서 강사들을 위한 교육 관리 시스템의 Database  | 2024.05 - 2024.06     | [ClassDom DB](https://github.com/Windowmincastle/ClassDom-Project)                   |
+
+## Tech Blog
+- ✍ [테크 블로그](https://excited-trampoline-8c1.notion.site/175b16cb343580688115e2688f3f9a38)
 
 ## Skills
 
@@ -35,9 +35,17 @@
 ![githubaction](https://img.shields.io/badge/github_action-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+## Experienced
+![kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![kafka](https://img.shields.io/badge/apache_kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![jenkins](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
 ### Studying
+![kafka](https://img.shields.io/badge/apache_kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![jenkins](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![junit5](https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
 
 ### Collaboration Tool
 ![notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)
