@@ -13,6 +13,7 @@
 
 ## Tech Blog
 - ✍ [테크 블로그](https://excited-trampoline-8c1.notion.site/175b16cb343580688115e2688f3f9a38)
+  
 ## Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mincastle77@gmail.com)](mailto:mincastle77@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:kcm1042@naver.com)](mailto:kcm1042@naver.com)
