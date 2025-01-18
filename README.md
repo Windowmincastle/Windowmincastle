@@ -42,8 +42,12 @@
 
 ### Experienced
 ![kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![kafka](https://img.shields.io/badge/apache_kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![jenkins](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![kafka](https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=kafka&logoColor=white)
+![c](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white)
+![cplusplus](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![csharp](https://img.shields.io/badge/csharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
 ### Studying
 ![algorithm](https://img.shields.io/badge/algorithm-0F4B8E?style=for-the-badge&logo=python&logoColor=white)
