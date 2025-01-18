@@ -46,7 +46,7 @@
 ![c](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![cplusplus](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![csharp](https://img.shields.io/badge/csharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![c#](https://img.shields.io/badge/csharp-239120?style=for-the-badge&logo=c#&logoColor=white)
 ![firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
 ### Studying
