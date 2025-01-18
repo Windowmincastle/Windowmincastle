@@ -63,5 +63,5 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mincastle77@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)](kcm1042@naver.com)
 
-## Learning
+## ![hits](https://hits.dwyl.com/Windowmincastle/Windowmincastle.svg)
 [![minseong's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=castlemin77)](https://solved.ac/castlemin77/)
