@@ -2,10 +2,10 @@
 **안녕하세요! 😄 열정적으로 문제를 해결하며, 꾸준히 성장하는 개발자 김민성입니다.**
 **팀워크와 협업을 통해 함께 목표를 이루어가는 과정을 즐기며, 지속적인 학습과 도전을 통해 더 나은 개발자가 되기 위해 노력하고 있습니다**
 
+<!-- | 🤝 Hand2Hand              | 렌탈서비스 중개 플랫폼 서비스의 Server             | 일시중단      | [Hand2Hand Server](https://github.com/34suuuuu/highFour)                             | -->
 ## Project
 | 프로젝트명| 설명 | 기간 | Repository |
 |------------------------|-------------------------------------------------------|----------------------|--------------------------------------------------------------------------------------|
-<!-- | 🤝 Hand2Hand              | 렌탈서비스 중개 플랫폼 서비스의 Server             | 일시중단      | [Hand2Hand Server](https://github.com/34suuuuu/highFour)                             | -->
 | 👩‍🎓👨‍🎓 Study with Teacher     | 올인원 교육 중개 플랫폼 스위티 서비스의 Client      | 2024.09 - 2024.11     | [SwithT Client](https://github.com/Windowmincastle/SwithT_frontend)                  |
 | 👩‍🎓👨‍🎓 Study with Teacher     | 올인원 교육 중개 플랫폼 스위티 서비스의 Server      | 2024.09 - 2024.11     | [SwithT Server](https://github.com/Windowmincastle/SwithT_backend)                   |
 | 🛕 NoExit                 | 방탈출게임 통합 플랫폼 서비스의 Client              | 2024.07 - 2024.08     | [NoExit Client](https://github.com/Windowmincastle/NoExit_frontend)                  |
