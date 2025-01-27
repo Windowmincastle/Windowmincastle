@@ -80,5 +80,4 @@
 />
 </a>
 
-## 👨‍💻![hits](https://hits.dwyl.com/Windowmincastle/Windowmincastle.svg)
 [![minseong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Windowmincastle&theme=radical)](https://github.com/Windowmincastle/github-readme-stats) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=castlemin77)](https://solved.ac/castlemin77/)
