@@ -34,21 +34,14 @@
 ### DBMS
 ![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![mariadb](https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
 
 ### Deployment
 ![aws](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white)
 ![githubaction](https://img.shields.io/badge/github_action-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Experienced
 ![kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![kafka](https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=kafka&logoColor=white)
-![c](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white)
-![cplusplus](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![csharp](https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+
 
 ### Studying
 ![algorithm](https://img.shields.io/badge/algorithm-0F4B8E?style=for-the-badge&logo=python&logoColor=white)
@@ -56,6 +49,7 @@
 ![jenkins](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![junit5](https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Tools
 ![notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)
