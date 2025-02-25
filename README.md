@@ -25,7 +25,7 @@
 ### Language
 ![java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![python](https://img.shields.io/badge/python-306998?style=for-the-badge&logo=python&logoColor=white)
+
 
 ### Framework
 ![springboot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -45,6 +45,7 @@
 
 ### Studying
 ![algorithm](https://img.shields.io/badge/algorithm-0F4B8E?style=for-the-badge&logo=python&logoColor=white)
+![python](https://img.shields.io/badge/python-306998?style=for-the-badge&logo=python&logoColor=white)
 ![kafka](https://img.shields.io/badge/apache_kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![jenkins](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![junit5](https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
