@@ -25,6 +25,7 @@
 ### Language
 ![java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Classic Asp](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=Classic Asp&logoColor=black)
 
 
 ### Framework
@@ -34,6 +35,7 @@
 ### DBMS
 ![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![mariadb](https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MS-SQL](https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=ms-sql&logoColor=white)
 
 
 ### Deployment
