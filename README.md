@@ -25,6 +25,7 @@
 ### Language
 ![java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![VBScript](https://img.shields.io/badge/VBScript-5C2D91?style=for-the-badge&logo=windows&logoColor=white)
 
 
@@ -32,6 +33,7 @@
 ![springboot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![vue.js](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![jquery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Classic ASP](https://img.shields.io/badge/Classic%20ASP-6A5ACD?style=for-the-badge&logo=internet-explorer&logoColor=white)
 
 
