@@ -13,7 +13,7 @@
 | 👨‍🏫👩‍🏫 ClassDom               | 프리랜서 강사들을 위한 교육 관리 시스템의 Database  | 2024.05 - 2024.06     | [ClassDom DB](https://github.com/Windowmincastle/ClassDom-Project)                   |
 
 ## Tech Blog
-- ✍ [테크 블로그](https://excited-trampoline-8c1.notion.site/175b16cb343580688115e2688f3f9a38)
+- ✍ [블로그](https://excited-trampoline-8c1.notion.site/175b16cb343580688115e2688f3f9a38)
   
 ## Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mincastle77@gmail.com)](mailto:mincastle77@gmail.com)
