@@ -24,6 +24,8 @@
 
 ### Language
 ![java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
+![python](https://img.shields.io/badge/python-306998?style=for-the-badge&logo=python&logoColor=white)
+<br>
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![VBScript](https://img.shields.io/badge/VBScript-5C2D91?style=for-the-badge&logo=windows&logoColor=white)
@@ -51,9 +53,8 @@
 ![kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 
-### experience
+### stduying & experience
 ![algorithm](https://img.shields.io/badge/algorithm-0F4B8E?style=for-the-badge&logo=python&logoColor=white)
-![python](https://img.shields.io/badge/python-306998?style=for-the-badge&logo=python&logoColor=white)
 ![kafka](https://img.shields.io/badge/apache_kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![jenkins](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
