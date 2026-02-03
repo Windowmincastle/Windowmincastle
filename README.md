@@ -53,12 +53,6 @@
 ![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### AI / Automation
-![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white)
-![AI Agent](https://img.shields.io/badge/AI%20Agent-5A67D8?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-FF6F00?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
 
 ### stduying & experience
 ![algorithm](https://img.shields.io/badge/algorithm-0F4B8E?style=for-the-badge&logo=python&logoColor=white)
