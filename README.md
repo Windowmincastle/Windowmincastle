@@ -6,7 +6,7 @@
 ## Project
 | 프로젝트명| 설명 | 기간 | Repository |
 |------------------------|-------------------------------------------------------|----------------------|--------------------------------------------------------------------------------------|
-| 📒 NoteWise Project     | 개인 사이드 프로젝트 - AI 에이전틱 워크플로우       | 2025.12 - 2026.01     | [notewise-mono-repo](https://github.com/Windowmincastle/notewise-ai-agent)                  |
+| 📒 NoteWise     | 개인 사이드 프로젝트 - AI 에이전틱 워크플로우       | 2025.12 - 2026.01     | [notewise-mono-repo](https://github.com/Windowmincastle/notewise-ai-agent)                  |
 | 👩‍🎓👨‍🎓 Study with Teacher     | 올인원 교육 중개 플랫폼 스위티 서비스의 Client      | 2024.09 - 2024.11     | [SwithT Client](https://github.com/Windowmincastle/SwithT_frontend)                  |
 | 👩‍🎓👨‍🎓 Study with Teacher     | 올인원 교육 중개 플랫폼 스위티 서비스의 Server      | 2024.09 - 2024.11     | [SwithT Server](https://github.com/Windowmincastle/SwithT_backend)                   |
 | 🛕 NoExit                 | 방탈출게임 통합 플랫폼 서비스의 Client              | 2024.07 - 2024.08     | [NoExit Client](https://github.com/Windowmincastle/NoExit_frontend)                  |
