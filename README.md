@@ -8,7 +8,7 @@
 |------------------------|-------------------------------------------------------|----------------------|--------------------------------------------------------------------------------------|
 | 🎨 Code Painter | **VS Code Marketplace 정식 배포**<br> 코드 로직 시각화 및 분석 생산성 도구 | 2026.02 - 2026.02 | [code-painter](https://github.com/Windowmincastle/code-painter) |
 | 📒 NoteWise     | 개인 사이드 프로젝트 - AI 에이전틱 워크플로우       | 2025.12 - 2026.01     | [notewise-mono-repo](https://github.com/Windowmincastle/notewise-ai-agent)                  |
-| 👩‍🎓👨‍🎓 Study with Teacher     | 올인원 교육 중개 플랫폼 스위티 서비스의 Server      | 2024.09 - 2024.11     | [SwithT Server](https://github.com/Windowmincastle/SwithT_backend)                   |
+| 👩‍🎓👨‍🎓 Study with Teacher     | 올인원 교육 중개 플랫폼 스위티 서비스의 MSA Server      | 2024.09 - 2024.11     | [SwithT Server](https://github.com/Windowmincastle/SwithT_backend)                   |
 | 🛕 NoExit                 | 방탈출게임 통합 플랫폼 서비스의 Server              | 2024.07 - 2024.08     | [NoExit Server](https://github.com/Windowmincastle/NoExit_backend)                   |
 | 👨‍🏫👩‍🏫 ClassDom               | 프리랜서 강사들을 위한 교육 관리 시스템의 Database  | 2024.05 - 2024.06     | [ClassDom DB](https://github.com/Windowmincastle/ClassDom-Project)                   |
 
