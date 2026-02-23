@@ -6,7 +6,7 @@
 ## Project
 | 프로젝트명| 설명 | 기간 | Repository |
 |------------------------|-------------------------------------------------------|----------------------|--------------------------------------------------------------------------------------|
-| 🎨 AI 기반 대용량 CRM 데이터 분석 시스템 MVP |  LLM 기반 대화형 BI 시스템 | 2026.02 - 2026.03 | [sales-crm-mcp-server](https://github.com/Windowmincastle/sales-crm-mcp-server) |
+| 🧠 CRM 데이터 분석 시스템 MCP 서버 MVP |  LLM 기반 대화형 BI 시스템 | 2026.02 - 2026.03 | [sales-crm-mcp-server](https://github.com/Windowmincastle/sales-crm-mcp-server) |
 | 🎨 Code Painter | VS Code Marketplace 정식 배포 <br> 코드 로직 시각화 및 분석 생산성 도구 | 2026.02 - 2026.02 | [code-painter](https://github.com/Windowmincastle/code-painter) |
 | 📒 NoteWise     | 개인 사이드 프로젝트 - AI 에이전틱 워크플로우       | 2025.12 - 2026.01     | [notewise-mono-repo](https://github.com/Windowmincastle/notewise-ai-agent)                  |
 | 👩‍🎓👨‍🎓 Study with Teacher     | 올인원 교육 중개 플랫폼 스위티 서비스의 MSA Server      | 2024.09 - 2024.11     | [SwithT Server](https://github.com/Windowmincastle/SwithT_backend)                   |
