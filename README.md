@@ -6,6 +6,7 @@
 ## Project
 | 프로젝트명| 설명 | 기간 | Repository |
 |------------------------|-------------------------------------------------------|----------------------|--------------------------------------------------------------------------------------|
+| ⚡ High-Traffic Concurrency PoC | 대용량 트래픽 환경에서 Lock부터 Kafka까지, 동시성 병목 해결 PoC | [High-Traffic-Concurrency-PoC](https://github.com/Windowmincastle/High-Traffic-Concurrency-PoC) |
 | 🧠 CRM 데이터 분석 시스템 MCP 서버 |  LLM 기반 대화형 BI 시스템 MVP | 2026.02 - 2026.03 | [sales-crm-mcp-server](https://github.com/Windowmincastle/sales-crm-mcp-server) |
 | 🎨 Code Painter | VS Code Marketplace 정식 배포 <br> 코드 로직 시각화 및 분석 생산성 도구 | 2026.02 - 2026.02 | [code-painter](https://github.com/Windowmincastle/code-painter) |
 | 📒 NoteWise     | 개인 사이드 프로젝트 - AI 에이전틱 워크플로우       | 2025.12 - 2026.01     | [notewise-mono-repo](https://github.com/Windowmincastle/notewise-ai-agent)                  |
